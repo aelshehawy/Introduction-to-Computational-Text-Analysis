@@ -1,5 +1,5 @@
-# Introduction-to-Computational-Text-Analysis
-Trinity Term 2021 - Department of Politics and International Relations - University of Oxford
+# Text as Data: Computational Text Analysis
+This is a course offered in Trinity Term 2021 at Department of Politics and International Relations, University of Oxford
 
 
 We will be using Python as a programming language during this course.
