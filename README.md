@@ -1,6 +1,6 @@
 # Text as Data: Computational Text Analysis
 This is a course offered in Trinity Term 2021 at Department of Politics and International Relations, University of Oxford
-
+Course Convener: Ashrakat Elshehawy
 
 We will be using Python as a programming language during this course.
 The course will start by introducing text processing mechanisms. We are going to learn about mechanisms like tokenization, stemming, lemmatization, part-of-speech tagging, and named-entity recognition.
