@@ -10,9 +10,9 @@ After that, we will focus on methods of unsupervised machine learning like clust
 
 Quickly Access our Python Sheets:
 
-- Python Refresher 1 [https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/Python_Refresher_1.ipynb](Link)
-- Python Refresher 2 [https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/Python_Refresher_2.ipynb](Link)
-- Week 1 - Introduction in NLP, Peparing Corpora, and Text-Preprocessing [https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/TextasData_Session_1.ipynb](Link)
+- Python Refresher 1 [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/Python_Refresher_1.ipynb)
+- Python Refresher 2 [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/Python_Refresher_2.ipynb)
+- Week 1 - Introduction in NLP, Peparing Corpora, and Text-Preprocessing [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/TextasData_Session_1.ipynb)
 
 
 
