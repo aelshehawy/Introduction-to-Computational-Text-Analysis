@@ -1,5 +1,5 @@
 # Text as Data: Computational Text Analysis
-This is a course offered in Trinity Term 2021 at Department of Politics and International Relations, University of Oxford
+This is a course offered in Trinity Term 2021 at Department of Politics and International Relations, University of Oxford <br>
 Course Convener: Ashrakat Elshehawy
 
 We will be using Python as a programming language during this course.
