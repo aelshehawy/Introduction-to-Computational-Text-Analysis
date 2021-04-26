@@ -8,4 +8,11 @@ The course will also provide insight in methods of managing and manipulating tex
 We will then cover aspects of numerical representation of text, for example like word-embedding, and also discuss metrics of text similarity.
 After that, we will focus on methods of unsupervised machine learning like clustering and topic modelling, as well as, supervised machine learning methods, with a focus on classification techniques and sentiment analysis.
 
+Quickly Access our Python Sheets:
+
+- Python Refresher 1
+- Python Refresher 2
+- Week 1 - Introduction in NLP, Peparing Corpora, and Text-Preprocessing 
+
+
 
