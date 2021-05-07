@@ -8,6 +8,8 @@ The course will also provide insight in methods of managing and manipulating tex
 We will then cover aspects of numerical representation of text, for example like word-embedding, and also discuss metrics of text similarity.
 After that, we will focus on methods of unsupervised machine learning like clustering and topic modelling, as well as, supervised machine learning methods, with a focus on classification techniques and sentiment analysis.
 
+All Python sheets used in class, excercises, excercise solutions, and slides will be updated here on a weekly basis.
+
 Quickly Access our Python Sheets:
 
 - Python Refresher 1 [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/Python_Refresher_1.ipynb)
