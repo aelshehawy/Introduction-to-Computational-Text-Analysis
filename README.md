@@ -17,6 +17,7 @@ Quickly Access our Python Sheets:
 - Week 1 - Introduction in NLP, Peparing Corpora, and Text-Preprocessing [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/TextasData_Session_1.ipynb)
 - Week 2 - Building an NLP Pipeline, Lemmatization, Stemming, POS-Tagging, NER. An introduction in dictionary methods and the use of counting for computational text-analysis [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/TextasData_Session2.ipynb)
 - Week 3 - Vector Space Representation and Unsupervised Techniques [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/TextasData_Session3.ipynb)
+- Week 4 - Supervised Techniques - Classification and Sentiment Analysis [Link](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford/blob/main/Code/TextasData_Session4.ipynb)
 
 
 
